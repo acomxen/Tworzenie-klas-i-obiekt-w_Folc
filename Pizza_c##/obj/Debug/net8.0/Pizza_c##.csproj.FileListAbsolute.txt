@@ -1,0 +1,14 @@
+C:\Users\Lik0m13\source\repos\Pizza_c##\bin\Debug\net8.0\Pizza_c##.exe
+C:\Users\Lik0m13\source\repos\Pizza_c##\bin\Debug\net8.0\Pizza_c##.deps.json
+C:\Users\Lik0m13\source\repos\Pizza_c##\bin\Debug\net8.0\Pizza_c##.runtimeconfig.json
+C:\Users\Lik0m13\source\repos\Pizza_c##\bin\Debug\net8.0\Pizza_c##.dll
+C:\Users\Lik0m13\source\repos\Pizza_c##\bin\Debug\net8.0\Pizza_c##.pdb
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.AssemblyInfoInputs.cache
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.AssemblyInfo.cs
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.csproj.CoreCompileInputs.cache
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.dll
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\refint\Pizza_c##.dll
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.pdb
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\Pizza_c##.genruntimeconfig.cache
+C:\Users\Lik0m13\source\repos\Pizza_c##\obj\Debug\net8.0\ref\Pizza_c##.dll
